@@ -1,0 +1,1 @@
+# furro-lexicon-gen
